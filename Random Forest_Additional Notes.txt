@@ -1,0 +1,46 @@
+Random Forest
+
+Additional Notes:
+1. Explain Bagging and Boosting methods. How is it different from each other.
+Ans:
+Bagging (Bootstrap Aggregating) and Boosting are two popular ensemble learning methods used to improve the performance of machine learning models.
+
+Bagging:
+
+Bagging is an ensemble learning method that combines multiple instances of a base model to reduce variance and improve prediction accuracy. 
+
+Bagging helps to:
+
+- Reduce overfitting by averaging out the noise in individual models.
+- Improve prediction accuracy by combining multiple models.
+
+Boosting:
+
+Boosting is an ensemble learning method that combines multiple weak models to create a strong predictive model.
+
+Boosting helps to:
+
+- Reduce bias by combining multiple weak models.
+- Improve prediction accuracy by focusing on misclassified samples.
+
+Key differences:
+
+1. Purpose
+2. Model combination
+3. Training data
+4. Model strength
+
+
+2. Explain how to handle imbalance in the data.
+Ans:
+Handling imbalance in data refers to the techniques used to address the issue of having a disproportionate number of samples in one or more classes compared to others. Here are some common methods to handle imbalance:
+1. Oversampling the minority class
+2. Under sampling the majority class
+3. SMOTE (Synthetic minority over-sampling technique)
+4. Random oversampling
+5. ADASYN (Adaptive synthetic sampling)
+6. Class weights
+7. Thresholding
+8. Data generation
+
+
